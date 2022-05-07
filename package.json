@@ -1,0 +1,19 @@
+{
+  "name": "tmdb-netflix-version",
+  "version": "1.0.0",
+  "description": "Netflix clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranker-M/TMDB-Netflix-Version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranker-M/TMDB-Netflix-Version/issues"
+  },
+  "homepage": "https://github.com/ranker-M/TMDB-Netflix-Version#readme"
+}
